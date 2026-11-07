@@ -8,4 +8,4 @@ matiere = input("Quelle matiere revises-tu ? ")
 
 print(f"Tu revises : {matiere}.")
 
-duree = input("Combien de minutes voulez-vous réviser ? ")
+duree = input("Combien de minutes voulez-vous reviser ? ")
